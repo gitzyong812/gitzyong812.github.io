@@ -4,16 +4,16 @@ main:
   - date: "Always~"
     text: "I am looking for self-motivated Undergraduate and Graduate students. Feel free to contact me for research guidance or collaboration."
   - date: "2026.08"
-    text: "I have open‑sourced a practical AI agent tutorial, *Hands‑On Agent Building: From AI Digital Employees to One‑Person Companies* 《动手构建智能体：从 AI 数字员工到一人公司》. GitHub: [https://github.com/gitzyong812/agent_tutorial](https://github.com/gitzyong812/agent_tutorial)"
+    text: 'I have open‑sourced a practical AI agent tutorial, <i>Hands‑On Agent Building: From AI Digital Employees to One‑Person Companies</i> 《动手构建智能体：从 AI 数字员工到一人公司》. GitHub: <a href="https://github.com/gitzyong812/agent_tutorial" target="_blank">https://github.com/gitzyong812/agent_tutorial</a>'
   - date: "2026.07"
     text: "One paper <i>Coder-R3: Recognize, Review and Repair Defective Code with Finetuned LLMs in Practice</i> was accepted to <b>CICAI 2026</b>."
   - date: "2026.03"
     text: "One paper <i>Boosting Knowledge-based Visual Question Answering with Structured Context Reasoning</i> was accepted to <b>ICME 2026</b>."
-  - date: "2026.03"
-    text: "I joined the School of Artificial Intelligence at Shenzhen University as an Assistant Professor."
-  - date: "2025.11"
-    text: "One paper <i>Appearance-Motion Decomposed Alignment for Text-Video Retrieval</i> was accepted to <b>AAAI 2026</b>."
 
 all:
+  - date: "2025.11"
+    text: "One paper <i>Appearance-Motion Decomposed Alignment for Text-Video Retrieval</i> was accepted to <b>AAAI 2026</b>."
+  - date: "2026.03"
+    text: "I joined the School of Artificial Intelligence at Shenzhen University as an Assistant Professor."
   - date: "2023.07"
     text: "I obtained my Ph.D. degree from CUHK-SZ."
